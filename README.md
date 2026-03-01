@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=MSc+Student+in+Artificial+Intelligence+%F0%9F%A4%96;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Aerospace+%26+Autonomous+Systems+%E2%9C%88%EF%B8%8F;High+Performance+Computing+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=MSc+Student+in+Artificial+Intelligence+%F0%9F%A4%96;Computer+Vision+%26+Machine+Learning+%F0%9F%91%81%EF%B8%8F;Aerospace+%26+Autonomous+Systems+%E2%9C%88%EF%B8%8F;High+Performance+Computing+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,12 +17,11 @@ MSc Student in Artificial Intelligence
 BSc in Computer Engineering  
 
 Interests:
-  - Machine Learning & Deep Learning
+  - Machine Learning & Reinforcement Learning
   - Computer Vision
   - Aerospace Applications & Autonomous Systems
   - Robotics & Swarm Intelligence
-
-Strong background in C++ and Python for performance-critical applications.
+  - Scientific and High-Performance Computing
 
 ---
 
