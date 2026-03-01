@@ -3,11 +3,11 @@
 </div>
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=MSc+Student+in+Artificial+Intelligence+🤖;Computer+Vision+%26+Deep+Learning+👁️;Aerospace+%26+Autonomous+Systems+✈️;High+Performance+Computing+⚡;Always+learning+something+new+📚" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=MSc+Student+in+Artificial+Intelligence+%F0%9F%A4%96;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Aerospace+%26+Autonomous+Systems+%E2%9C%88%EF%B8%8F;High+Performance+Computing+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -23,6 +23,8 @@ Interests:
   - Robotics & Swarm Intelligence
 
 Strong background in C++ and Python for performance-critical applications.
+
+---
 
 ## Tech Stack
 
@@ -58,13 +60,11 @@ Strong background in C++ and Python for performance-critical applications.
 ---
 
 ## GitHub Stats
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabioSucameli&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioSucameli&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabioSucameli&theme=github-dark-blue&hide_border=true&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" />
 </div>
 
----
+
 
 ## Contribution Graph
 
